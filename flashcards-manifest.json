@@ -1,0 +1,330 @@
+{
+  "version": "R33",
+  "totalCards": 65000,
+  "domainCount": 62,
+  "angles": [
+    "Definisi",
+    "Fungsi",
+    "Manfaat",
+    "Risiko",
+    "Data",
+    "Pengendalian",
+    "Teknologi",
+    "Keberlanjutan",
+    "KPI",
+    "Keputusan"
+  ],
+  "loadingStrategy": "Load one selected domain on demand; All Subjects loads all domains only when explicitly selected.",
+  "domains": [
+    {
+      "name": "Ocean & Marine",
+      "count": 250,
+      "file": "data/flashcards/01-ocean-marine.json"
+    },
+    {
+      "name": "Clean Energy",
+      "count": 250,
+      "file": "data/flashcards/02-clean-energy.json"
+    },
+    {
+      "name": "Water Management",
+      "count": 250,
+      "file": "data/flashcards/03-water-management.json"
+    },
+    {
+      "name": "Climate & Carbon",
+      "count": 250,
+      "file": "data/flashcards/04-climate-carbon.json"
+    },
+    {
+      "name": "Biodiversity & Forests",
+      "count": 250,
+      "file": "data/flashcards/05-biodiversity-forests.json"
+    },
+    {
+      "name": "Oil & Gas Petrochemical",
+      "count": 250,
+      "file": "data/flashcards/06-oil-gas-petrochemical.json"
+    },
+    {
+      "name": "Mineral Mining Indonesia",
+      "count": 250,
+      "file": "data/flashcards/07-mineral-mining-indonesia.json"
+    },
+    {
+      "name": "Food Estate & Agribusiness",
+      "count": 250,
+      "file": "data/flashcards/08-food-estate-agribusiness.json"
+    },
+    {
+      "name": "Transport & Future Mobility",
+      "count": 250,
+      "file": "data/flashcards/09-transport-future-mobility.json"
+    },
+    {
+      "name": "Circular Economy & Industry",
+      "count": 250,
+      "file": "data/flashcards/10-circular-economy-industry.json"
+    },
+    {
+      "name": "Human Capital, Education & Health",
+      "count": 250,
+      "file": "data/flashcards/11-human-capital-education-health.json"
+    },
+    {
+      "name": "Healthcare & Public Health",
+      "count": 250,
+      "file": "data/flashcards/12-healthcare-public-health.json"
+    },
+    {
+      "name": "Strategic Petroleum Reserve & Energy Security",
+      "count": 250,
+      "file": "data/flashcards/13-strategic-petroleum-reserve-energy-security.json"
+    },
+    {
+      "name": "Geothermal & Hydrogen",
+      "count": 250,
+      "file": "data/flashcards/14-geothermal-hydrogen.json"
+    },
+    {
+      "name": "Data Center, Satellite & Digital Infrastructure",
+      "count": 250,
+      "file": "data/flashcards/15-data-center-satellite-digital-infrastructure.json"
+    },
+    {
+      "name": "Water Infrastructure & Desalination",
+      "count": 250,
+      "file": "data/flashcards/16-water-infrastructure-desalination.json"
+    },
+    {
+      "name": "Food Security, Livestock & Aquaculture",
+      "count": 250,
+      "file": "data/flashcards/17-food-security-livestock-aquaculture.json"
+    },
+    {
+      "name": "Mining Safety & Critical Minerals",
+      "count": 250,
+      "file": "data/flashcards/18-mining-safety-critical-minerals.json"
+    },
+    {
+      "name": "Climate Adaptation & Ecosystem Resilience",
+      "count": 250,
+      "file": "data/flashcards/19-climate-adaptation-ecosystem-resilience.json"
+    },
+    {
+      "name": "Industry 4.0 & Supply Chain Governance",
+      "count": 250,
+      "file": "data/flashcards/20-industry-4-0-supply-chain-governance.json"
+    },
+    {
+      "name": "Integrated HSE & Risk Management System",
+      "count": 250,
+      "file": "data/flashcards/21-integrated-hse-risk-management-system.json"
+    },
+    {
+      "name": "Occupational Safety & Worksite Controls",
+      "count": 250,
+      "file": "data/flashcards/22-occupational-safety-worksite-controls.json"
+    },
+    {
+      "name": "Industrial Hygiene & Occupational Health",
+      "count": 250,
+      "file": "data/flashcards/23-industrial-hygiene-occupational-health.json"
+    },
+    {
+      "name": "Process Safety & Major Accident Prevention",
+      "count": 250,
+      "file": "data/flashcards/24-process-safety-major-accident-prevention.json"
+    },
+    {
+      "name": "Environmental Management Systems & Compliance",
+      "count": 250,
+      "file": "data/flashcards/25-environmental-management-systems-compliance.json"
+    },
+    {
+      "name": "Enterprise Risk Management & Internal Controls",
+      "count": 250,
+      "file": "data/flashcards/26-enterprise-risk-management-internal-controls.json"
+    },
+    {
+      "name": "Hazard Identification, Risk Assessment & Control",
+      "count": 250,
+      "file": "data/flashcards/27-hazard-identification-risk-assessment-control.json"
+    },
+    {
+      "name": "Emergency Response, Rescue & Crisis Command",
+      "count": 250,
+      "file": "data/flashcards/28-emergency-response-rescue-crisis-command.json"
+    },
+    {
+      "name": "Business Continuity & Operational Resilience",
+      "count": 250,
+      "file": "data/flashcards/29-business-continuity-operational-resilience.json"
+    },
+    {
+      "name": "Contractor, Supplier & Procurement HSE",
+      "count": 250,
+      "file": "data/flashcards/30-contractor-supplier-procurement-hse.json"
+    },
+    {
+      "name": "Construction & Infrastructure Safety",
+      "count": 250,
+      "file": "data/flashcards/31-construction-infrastructure-safety.json"
+    },
+    {
+      "name": "Electrical Safety & Energy Isolation",
+      "count": 250,
+      "file": "data/flashcards/32-electrical-safety-energy-isolation.json"
+    },
+    {
+      "name": "Fire Protection & Life Safety",
+      "count": 250,
+      "file": "data/flashcards/33-fire-protection-life-safety.json"
+    },
+    {
+      "name": "Chemical & Hazardous Materials Safety",
+      "count": 250,
+      "file": "data/flashcards/34-chemical-hazardous-materials-safety.json"
+    },
+    {
+      "name": "Ergonomics, Fatigue & Human Factors",
+      "count": 250,
+      "file": "data/flashcards/35-ergonomics-fatigue-human-factors.json"
+    },
+    {
+      "name": "Incident Investigation, Reporting & Learning",
+      "count": 250,
+      "file": "data/flashcards/36-incident-investigation-reporting-learning.json"
+    },
+    {
+      "name": "HSE Audit, Assurance & Performance",
+      "count": 250,
+      "file": "data/flashcards/37-hse-audit-assurance-performance.json"
+    },
+    {
+      "name": "Asset Integrity, Maintenance & Reliability",
+      "count": 250,
+      "file": "data/flashcards/38-asset-integrity-maintenance-reliability.json"
+    },
+    {
+      "name": "Waste, Pollution & Environmental Monitoring",
+      "count": 250,
+      "file": "data/flashcards/39-waste-pollution-environmental-monitoring.json"
+    },
+    {
+      "name": "Security, Cyber Risk & Operational Technology",
+      "count": 250,
+      "file": "data/flashcards/40-security-cyber-risk-operational-technology.json"
+    },
+    {
+      "name": "Integrated Logistics & Warehouse Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/41-integrated-logistics-warehouse-management-services.json"
+    },
+    {
+      "name": "Shorebase Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/42-shorebase-management-services.json"
+    },
+    {
+      "name": "Aviation Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/43-aviation-management-services.json"
+    },
+    {
+      "name": "Freight Forwarder Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/44-freight-forwarder-management-services.json"
+    },
+    {
+      "name": "Shipping & Mother Vessel Fleet Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/45-shipping-mother-vessel-fleet-management-services.json"
+    },
+    {
+      "name": "Oil Bunker & Terminal Storage Tank Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/46-oil-bunker-terminal-storage-tank-management-services.json"
+    },
+    {
+      "name": "Fleet & Heavy Equipment Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/47-fleet-heavy-equipment-management-services.json"
+    },
+    {
+      "name": "Power Management & Distribution Services",
+      "count": 2500,
+      "file": "data/flashcards/48-power-management-distribution-services.json"
+    },
+    {
+      "name": "Water Management & Distribution Services",
+      "count": 2500,
+      "file": "data/flashcards/49-water-management-distribution-services.json"
+    },
+    {
+      "name": "Camp & Catering Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/50-camp-catering-management-services.json"
+    },
+    {
+      "name": "Travel Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/51-travel-management-services.json"
+    },
+    {
+      "name": "AMDAL & Waste Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/52-amdal-waste-management-services.json"
+    },
+    {
+      "name": "Medic & Clinic Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/53-medic-clinic-management-services.json"
+    },
+    {
+      "name": "Security & Patrol Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/54-security-patrol-management-services.json"
+    },
+    {
+      "name": "General Affair & Building Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/55-general-affair-building-management-services.json"
+    },
+    {
+      "name": "File & Data Storage Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/56-file-data-storage-management-services.json"
+    },
+    {
+      "name": "Land Surveillance & Acquisition Management & Services",
+      "count": 2500,
+      "file": "data/flashcards/57-land-surveillance-acquisition-management-services.json"
+    },
+    {
+      "name": "Commercial Marine & Merchant Shipping Management",
+      "count": 2500,
+      "file": "data/flashcards/58-commercial-marine-merchant-shipping-management.json"
+    },
+    {
+      "name": "Offshore Oilfield Marine & Vessel Management Services",
+      "count": 2500,
+      "file": "data/flashcards/59-offshore-oilfield-marine-vessel-management-services.json"
+    },
+    {
+      "name": "Integrated End-to-End Governance & Synergy",
+      "count": 2500,
+      "file": "data/flashcards/60-integrated-end-to-end-governance-synergy.json"
+    },
+    {
+      "name": "Integrated Buton Asphalt (Asbuton) Plant Management Service",
+      "count": 2500,
+      "file": "data/flashcards/61-integrated-buton-asphalt-asbuton-plant-management-service.json"
+    },
+    {
+      "name": "Integrated Cement Plant Management Service",
+      "count": 2500,
+      "file": "data/flashcards/62-integrated-cement-plant-management-service.json"
+    }
+  ]
+}
